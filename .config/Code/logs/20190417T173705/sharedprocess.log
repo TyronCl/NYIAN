@@ -1,0 +1,131 @@
+[2019-04-17 17:37:09.512] [sharedprocess] [info] main {"machineId":"a55084957c8dab5944262b2e27b824013f883497d87fb00f8b4fdc3d68a465c1"}
+[2019-04-17 17:37:09.611] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:09.625] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:09.633] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:09.784] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:37:09.790] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:37:09.796] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:37:10.144] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:46.867] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:46.871] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:47.043] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:37:47.050] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:37:49.186] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:37:49.535] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-17 17:42:49.452] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:47:49.462] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:52:49.478] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:41.091] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:41.095] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:41.098] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:41.105] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:41.222] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:56:41.228] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:56:41.232] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-17 17:56:48.655] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2019-04-17 17:56:48.658] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-17 17:56:49.791] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/fed11aed-c88c-4008-9902-81d4cdc17566
+[2019-04-17 17:56:54.570] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2019-04-17 17:56:54.570] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2019-04-17 17:56:54.572] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2019-04-17 17:56:54.591] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2019-04-17 17:57:31.300] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2019-04-17 17:57:31.302] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-17 17:57:31.736] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /tmp/af94a700-32c2-470c-817e-65b9859c2c62
+[2019-04-17 17:57:31.746] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.xabikos.javascriptsnippets-1.7.2: xabikos.javascriptsnippets
+[2019-04-17 17:57:31.746] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/xabikos.javascriptsnippets-1.7.2
+[2019-04-17 17:57:31.747] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2019-04-17 17:57:31.750] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets
+[2019-04-17 17:57:49.490] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-17 17:58:10.779] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2019-04-17 17:58:10.781] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-17 17:58:11.113] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /tmp/8a37ed77-f70d-437c-a0e4-aa02ecca624f
+[2019-04-17 17:58:11.204] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.eg2.vscode-npm-script-0.3.5: eg2.vscode-npm-script
+[2019-04-17 17:58:11.205] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/eg2.vscode-npm-script-0.3.5
+[2019-04-17 17:58:11.207] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script
+[2019-04-17 17:58:11.211] [sharedprocess] [info] Extensions installed successfully: eg2.vscode-npm-script
+[2019-04-17 17:58:21.345] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-04-17 17:58:21.349] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-17 17:58:21.668] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/bbac7a86-c417-4f5c-855c-59f5612962b6
+[2019-04-17 17:58:21.688] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.dbaeumer.vscode-eslint-1.8.2: dbaeumer.vscode-eslint
+[2019-04-17 17:58:21.688] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2
+[2019-04-17 17:58:21.690] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-04-17 17:58:21.695] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-04-17 17:58:35.544] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-04-17 17:58:35.548] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-17 17:58:39.461] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/286479cd-2f10-4019-ac6f-2aa327280303
+[2019-04-17 17:58:46.800] [sharedprocess] [info] Installing extension: pranaygp.vscode-css-peek
+[2019-04-17 17:58:46.806] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-17 17:58:51.514] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.esbenp.prettier-vscode-1.8.1: esbenp.prettier-vscode
+[2019-04-17 17:58:51.514] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/esbenp.prettier-vscode-1.8.1
+[2019-04-17 17:58:51.516] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2019-04-17 17:58:51.522] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2019-04-17 17:58:51.857] [sharedprocess] [info] Downloaded extension: pranaygp.vscode-css-peek /tmp/20bc43b0-d091-45d0-8fb4-4aa973de8fc4
+[2019-04-17 17:58:57.479] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.pranaygp.vscode-css-peek-2.2.0: pranaygp.vscode-css-peek
+[2019-04-17 17:58:57.479] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/pranaygp.vscode-css-peek-2.2.0
+[2019-04-17 17:58:57.480] [sharedprocess] [info] Installation completed. pranaygp.vscode-css-peek
+[2019-04-17 17:58:57.500] [sharedprocess] [info] Extensions installed successfully: pranaygp.vscode-css-peek
+[2019-04-17 17:59:25.927] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2019-04-17 17:59:25.932] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-17 17:59:27.199] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /tmp/9c95e856-0c76-4cfa-a935-10aaebdb91d9
+[2019-04-17 17:59:28.179] [sharedprocess] [info] Extracted extension to /home/tyc/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.11.3: msjsdiag.debugger-for-chrome
+[2019-04-17 17:59:28.179] [sharedprocess] [info] Renamed to /home/tyc/.vscode/extensions/msjsdiag.debugger-for-chrome-4.11.3
+[2019-04-17 17:59:28.182] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-04-17 17:59:28.189] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2019-04-17 18:02:49.510] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:07:49.526] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:12:49.537] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:17:49.553] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:22:49.566] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:27:49.660] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:32:49.685] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:37:49.703] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:42:50.077] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:47:50.101] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:52:50.128] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 18:57:50.197] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:02:50.219] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:07:50.241] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:12:50.306] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:17:50.336] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:22:50.356] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:27:50.379] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:32:50.397] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:37:50.416] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:42:50.759] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:47:50.781] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:52:50.812] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 19:57:50.844] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:02:50.862] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:07:50.886] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:12:50.896] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:17:50.911] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:22:50.930] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:27:50.947] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:32:50.966] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:37:50.980] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:42:51.423] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:47:51.440] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:52:51.461] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 20:57:51.475] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:02:51.493] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:07:51.515] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:12:51.536] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:17:51.558] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:22:51.599] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:27:51.658] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:32:51.681] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:37:51.705] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:42:52.018] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:47:52.041] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:52:52.061] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 21:57:52.087] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:02:52.110] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:07:52.133] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:12:52.214] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:17:52.238] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:22:52.260] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:27:52.284] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:32:52.299] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:37:52.316] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-17 22:42:52.628] [sharedprocess] [info] Scanned user extensions: 7

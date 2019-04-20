@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="18" last-seen="1555360691"/>
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="0" last-seen="1555360887"/>
+    <application id="atom.desktop" open-window-count="0" score="64" last-seen="1555364085"/>
+    <application id="firefox.desktop" open-window-count="0" score="26" last-seen="1555598792"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="11" last-seen="1555603422"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1555361130"/>
+    <application id="code.desktop" open-window-count="1" score="683" last-seen="1555718254"/>
+    <application id="google-chrome.desktop" open-window-count="2" score="14609" last-seen="1555718252"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="201" last-seen="1555603511"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1555360556"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="16" last-seen="1555535457"/>
+  </context>
+</application-state>

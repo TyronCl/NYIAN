@@ -1,0 +1,40 @@
+[2019-04-18 10:41:16.171] [exthost] [info] extension host started
+[2019-04-18 10:41:16.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.189] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-04-18 10:41:16.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.194] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-04-18 10:41:16.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.211] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-04-18 10:41:16.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.313] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-04-18 10:41:16.320] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.320] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/client/out/extension
+[2019-04-18 10:41:16.362] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.362] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-04-18 10:41:16.558] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.558] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/pranaygp.vscode-css-peek-2.2.0/out/client/src/extension
+[2019-04-18 10:41:16.615] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:41:16.615] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-04-18 10:41:17.191] [exthost] [info] eager extensions activated
+[2019-04-18 10:45:17.217] [exthost] [info] extension host started
+[2019-04-18 10:45:17.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-04-18 10:45:17.291] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-04-18 10:45:17.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-04-18 10:45:17.295] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-04-18 10:45:17.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.404] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-04-18 10:45:17.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.406] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-04-18 10:45:17.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.429] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-04-18 10:45:17.431] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.431] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/client/out/extension
+[2019-04-18 10:45:17.438] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.438] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-04-18 10:45:17.508] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.508] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/pranaygp.vscode-css-peek-2.2.0/out/client/src/extension
+[2019-04-18 10:45:17.534] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-04-18 10:45:17.534] [exthost] [info] ExtensionService#loadCommonJSModule /home/tyc/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-04-18 10:45:17.767] [exthost] [info] eager extensions activated
+[2019-04-18 10:56:12.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-04-18 10:56:12.382] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
